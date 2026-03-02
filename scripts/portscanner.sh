@@ -22,7 +22,7 @@ END_PORT=$3
 MODE=${4:-fast}   # Default mode is fast
 
 # Log file
-LOG_FILE="scan_results_$(date +%Y%m%d_%H%M%S).txt"
+LOG_FILE="logs/scan_results_$(date +%Y%m%d_%H%M%S).txt"
 
 # IP Validation
 is_valid_ip() {
