@@ -1,4 +1,4 @@
-# 🔐 CyberShell Studio
+# 🔐 SecuraShell Studio
 
 A beginner-to-intermediate Bash-based cybersecurity toolkit built for educational purposes.
 
@@ -28,5 +28,5 @@ A beginner-to-intermediate Bash-based cybersecurity toolkit built for educationa
 
 ```bash
 git clone <your-repo-link>
-cd CyberShell
+cd SecuraShell
 chmod +x scripts/*.sh
